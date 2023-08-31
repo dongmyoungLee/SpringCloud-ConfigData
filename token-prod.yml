@@ -6,3 +6,4 @@ server:
 
 secret: "{cipher}e5f1e52c077944c994b2c9565d95e7410a3a75b3495e14bad6f13442e5e0cc6f"
 
+test: test
